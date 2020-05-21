@@ -11,5 +11,5 @@ Then, the tumor size represents the diameter of excised tumor in centimeters, an
 indicates the number of positive axillary lymph nodes. Outcome column represents whether the tumor
 in a given patient was recurrent (R) or non-recurrent (N). Time represents the recurrence time in
 outcome is recurrent (R), and disease-free time if the outcome is non-recurrent (N).
-# a) A classifier to predict the outcome of a new patient with high accuracy.
-# b) A regression model to predict the recurrence time for patients whose outcome is R.
+## a) A classifier to predict the outcome of a new patient with high accuracy.
+## b) A regression model to predict the recurrence time for patients whose outcome is R.
